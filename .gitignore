@@ -1,0 +1,16 @@
+latex_fold/
+blender/
+.vscode/
+data/
+notes/
+resources/
+code/video.ipynb
+code/video_short.ipynb
+code/bin/
+code/png_to_mp4.py
+code/embed_on_16_9.ipynb
+code/data_see_bulb.ipynb
+code/data_see_disk.ipynb
+code/data_see_halo.ipynb
+code/data_bayes_preprocess.ipynb
+videos/
